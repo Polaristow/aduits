@@ -17,5 +17,14 @@ I work as a professional auditor for smart contracts in the field of [Movebit](h
 - [Tokensoft](https://audits.sherlock.xyz/contests/100)
 - [Footium](https://audits.sherlock.xyz/contests/71)
 ## MoveBit
+- BlockBolt
+- Haedal
+- Amnis Finance
+- MSafe
+- Merkle
 ## ScaleBit
-
+- EchoDEX
+- Zomma
+- 10K Swap
+- iZUMi
+- SURFI
