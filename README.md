@@ -16,15 +16,21 @@ I work as a professional auditor for smart contracts in the field of [Movebit](h
 ### [Sherlock](https://www.sherlock.xyz/)
 - [Tokensoft](https://audits.sherlock.xyz/contests/100)
 - [Footium](https://audits.sherlock.xyz/contests/71)
-## MoveBit
+## [MoveBit](https://www.movebit.xyz/)
 - BlockBolt
 - Haedal
 - Amnis Finance
 - MSafe
 - Merkle
-## ScaleBit
+## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
 - 10K Swap
 - iZUMi
 - SURFI
+## Bug Bounty
+### [HackenProof](https://hackenproof.com/)
+- [plisio](https://hackenproof.com/plisio/plisio)
+### [Immunefi](https://immunefi.com/)
+### [BugRap](https://bugrap.io/)
+### [HatsFinance](https://hats.finance/)
