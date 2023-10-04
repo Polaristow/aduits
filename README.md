@@ -22,6 +22,7 @@ I work as a professional auditor for smart contracts in the field of [Movebit](h
 - Amnis Finance
 - MSafe
 - Merkle
+- Seapad
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
