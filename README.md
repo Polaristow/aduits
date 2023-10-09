@@ -1,4 +1,3 @@
-
 # [Polaris_tow's](https://github.com/Polaristow) smart contract security portfolio
 ## About Polaris_tow
 I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit](https://twitter.com/scalebit_), and in my spare time, I participate in auditing contests. Here, I document my auditing experience.
