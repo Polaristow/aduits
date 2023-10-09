@@ -1,7 +1,7 @@
 
 # [Polaris_tow's](https://github.com/Polaristow) smart contract security portfolio
 ## About Polaris_tow
-I work as a professional auditor for smart contracts in the field of [Movebit](https://twitter.com/MoveBit_) and [Scalebit](https://twitter.com/scalebit_), and I sometimes engage in audit contests.
+I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit](https://twitter.com/scalebit_), and in my spare time, I participate in auditing contests.Here, I document my auditing experience.
 ## Audit Contests
 ### [CodeHawks](https://www.codehawks.com/)
 - [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx)
