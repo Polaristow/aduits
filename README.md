@@ -14,7 +14,6 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - [Canto Identity Subprotocols contest](https://code4rena.com/reports/2023-03-canto-identity)
 - [Popcorn contest](https://code4rena.com/reports/2023-01-popcorn)
 ### [Sherlock](https://www.sherlock.xyz/)
-- [Tokensoft](https://audits.sherlock.xyz/contests/100)
 - [Footium](https://audits.sherlock.xyz/contests/71)
 ## [MoveBit](https://www.movebit.xyz/)
 - BlockBolt
