@@ -21,6 +21,7 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - MSafe
 - Merkle
 - Seapad
+- Supra VRF
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
