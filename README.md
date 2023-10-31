@@ -23,12 +23,14 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - Seapad
 - Supra VRF
 - CETUS Vesting
+- Amnis Finance
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
 - 10K Swap
 - iZUMi
 - SURFI
+- Starksport
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 - [plisio](https://hackenproof.com/plisio/plisio)
