@@ -17,7 +17,6 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 ## [MoveBit](https://www.movebit.xyz/)
 - BlockBolt
 - Haedal
-- Amnis Finance
 - MSafe
 - Merkle
 - Seapad
