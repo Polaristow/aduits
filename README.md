@@ -23,6 +23,9 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - Supra VRF
 - CETUS Vesting
 - Amnis Finance
+- Scallop Token
+- BAPTSWAP
+- Sudo Finance
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
@@ -30,6 +33,9 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - iZUMi
 - SURFI
 - Starksport
+- ETH Space
+- Mirco3
+- Ethora
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 - [plisio](https://hackenproof.com/plisio/plisio)
