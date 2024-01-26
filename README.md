@@ -39,6 +39,7 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 - [plisio](https://hackenproof.com/plisio/plisio)
+- BLOFWM
 ### [Immunefi](https://immunefi.com/)
 ### [BugRap](https://bugrap.io/)
 ### [HatsFinance](https://hats.finance/)
