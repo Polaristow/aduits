@@ -26,6 +26,8 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - Scallop Token
 - BAPTSWAP
 - Sudo Finance
+- Scallop - Borrow Incentive
+- KriyaDex - Cetus Lp Vault
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
@@ -36,9 +38,19 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - ETH Space
 - Mirco3
 - Ethora
+- OOOO Bridge
+- Uncharted Lands X
+- Orders.Exchange
+- ETH Space ARB
+- Dola Protocol ETH
+
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 - [plisio](https://hackenproof.com/plisio/plisio)
 - BLOFWM
 ### [Immunefi](https://immunefi.com/)
 ### [HatsFinance](https://hats.finance/)
+## Penetration testing
+- B² NETWORK
+- Merlin Starter
+- Bouncebit
