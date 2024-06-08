@@ -47,9 +47,10 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
+**Ranked 48th on HackenProof**
 - plisio
 - BLOFWM
-- Bluefin
+- [Bluefin](https://hackenproof.com/audit-programs/bluefin/bluefin-audit-contest/influencers)
 - KINZA
 - Near
 
