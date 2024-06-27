@@ -53,7 +53,8 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - [Bluefin](https://hackenproof.com/audit-programs/bluefin/bluefin-audit-contest/influencers)
 - KINZA
 - Near
-
+### [Immunefi](https://immunefi.com/)
+- coming soon
 ## Penetration testing
 - B² NETWORK
 - Merlin Starter
