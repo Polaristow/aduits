@@ -54,7 +54,7 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - KINZA
 - Near
 ### [Immunefi](https://immunefi.com/)
-- coming soon
+- ***(high)coming soon
 ## Penetration testing
 - B² NETWORK
 - Merlin Starter
