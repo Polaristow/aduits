@@ -37,14 +37,9 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - [Foundry DeFi Stablecoin CodeHawks Audit Contest](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
 - [CodeHawks Escrow Contract](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
 ### [Code4rena](https://code4rena.com/)
-- [Frankencoin](https://code4rena.com/reports/2023-04-frankencoin)
 - [Asymmetry contest](https://code4rena.com/reports/2023-03-asymmetry)
-- [Canto Identity Subprotocols contest](https://code4rena.com/reports/2023-03-canto-identity)
-- [Popcorn contest](https://code4rena.com/reports/2023-01-popcorn)
 ### [Sherlock](https://www.sherlock.xyz/)
 - [Footium](https://audits.sherlock.xyz/contests/71)
-
-
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 **Ranked 48th on HackenProof**
