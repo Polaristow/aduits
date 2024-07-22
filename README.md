@@ -1,6 +1,6 @@
 # [Polaris_tow's](https://github.com/Polaristow) smart contract security portfolio
 ## About Polaris_tow
-I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit](https://twitter.com/scalebit_), and in my spare time, I participate in auditing contests. Here, I document my auditing experience.
+I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit](https://twitter.com/scalebit_), and in my spare time, I participate in bug bounty. Here, I document my auditing experience.
 ## [MoveBit](https://www.movebit.xyz/)
 - BlockBolt
 - Haedal
@@ -49,7 +49,7 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - KINZA
 - Near
 ### [Immunefi](https://immunefi.com/)
-- ***(high)coming soon
+- [Gala](https://gala.com/)
 ## Penetration testing
 - B² NETWORK
 - Merlin Starter
