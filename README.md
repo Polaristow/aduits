@@ -64,7 +64,12 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
   
 ### [Sherlock](https://www.sherlock.xyz/)
 - [Footium](https://audits.sherlock.xyz/contests/71)
-  
+
+### Solid Rock Security
+- Fishcake
+- Bridge
+### Secure3
+
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 **Ranked 48th on HackenProof**
