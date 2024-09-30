@@ -1,6 +1,6 @@
 # [Polaris_tow's](https://github.com/Polaristow) smart contract security portfolio
 ## About Polaris_tow
-I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit](https://twitter.com/scalebit_), and in my spare time, I participate in bug bounty. Here, I document my auditing experience.
+I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in bug bounty in my spare time. Here, I document my auditing experience.
 ## [MoveBit](https://www.movebit.xyz/)
 - BlockBolt
 - Haedal
@@ -52,15 +52,6 @@ I am currently building at [Movebit](https://twitter.com/MoveBit_) and [Scalebit
 - Pump Hub
 - MeMeStore
   
-## Audit Contests
-### [CodeHawks](https://www.codehawks.com/)
-### [Code4rena](https://code4rena.com/) 
-### [Sherlock](https://www.sherlock.xyz/)
-### Solid Rock Security
-- Fishcake
-- Bridge
-### Secure3
-
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 **Ranked 48th on HackenProof**
