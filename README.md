@@ -16,11 +16,36 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - Scallop - Borrow Incentive
 - KriyaDex - Cetus Lp Vault
 - Suigallerie Network
-- Kuna Labs
 - JumpTrade
 - Interest Protocol
 - Sparkling Finance
 - Cetus Limit Order
+- Sparkling Finance
+- Suigallerie Network
+- ZIPTOS
+- Echo Lending
+- Joule MM
+- Pinata
+- AGDEX
+- Unihouse
+- Traders.tech
+- BIRDS
+- Moar
+- Interest Protocol
+- Mereo
+- LayerBank
+- Pell Network
+- HyperFluid
+- Undying City
+- Echo Protocol LSD
+- Haedal Protocol
+- Lombard Finance
+- FanTV
+- Aptables
+- MoveFun
+- Arche Protocol
+- Redstone
+
 ## [ScaleBit](https://www.scalebit.xyz/)
 - EchoDEX
 - Zomma
@@ -45,12 +70,27 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - Bitzarrd
 - WorldBrain-WBC Token
 - KiloEx - Vault2
+- Coral Finance
+- Liquidity Slicing Protocol
+- E4C: Final Salvation
+- O.Lab
+- BLOCKLORDS
+- Merlin Chain
+- FarmerMeme
+- MoonPump
+- Pell Network-solana
   
 ## Tonbit
 - ModoriLabs
 - BeaverLand
 - Pump Hub
 - MeMeStore
+- BeaverLand
+- Ton Batch Sender
+- Ton Staking
+- TOM PUMP
+- SecondLive
+- UTonic
   
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
