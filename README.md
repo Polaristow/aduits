@@ -95,13 +95,14 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 ## Bug Bounty
 ### [HackenProof](https://hackenproof.com/)
 **Ranked 48th on HackenProof**
-- plisio
+- Plisio
 - BLOFWM
-- [Bluefin](https://hackenproof.com/audit-programs/bluefin/bluefin-audit-contest/influencers)
+- Bluefin
 - KINZA
 - Near
+- Sui
 ### [Immunefi](https://immunefi.com/)
-- [Gala](https://gala.com/)
+- Gala Game
 ## Penetration testing
 - B² NETWORK
 - Merlin Starter
