@@ -98,8 +98,6 @@ I am building at [Movebit](https://twitter.com/MoveBit_), and I participate in b
 - Plisio
 - BLOFWM
 - Bluefin
-- KINZA
-- Near
 - Sui
 ### [Immunefi](https://immunefi.com/)
 - Gala Game
